@@ -1,0 +1,6 @@
+{
+  "name": "Mughal calculator",
+  "description": "Mughal calculator with secret disguised photo and video vault to hide private media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
